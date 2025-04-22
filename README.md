@@ -11,4 +11,4 @@ b) Difference gain ADM = 20V/V
 Find ACM (Common mode gain) & calculate CMRR for ADM = 20, and 50 V/V - use LT spice simulator.
 ## Calculation:
 ### For ADM =20v/v
-ADM
+A_DM
